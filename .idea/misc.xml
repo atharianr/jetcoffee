@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../layout/compose-model-1670935063184.xml" value="0.31165540540540543" />
+        <entry key="../../../../../layout/compose-model-1670936165232.xml" value="0.5" />
+        <entry key="../../../../../layout/compose-model-1670936767933.xml" value="0.45185185185185184" />
+        <entry key="../../../../../layout/compose-model-1670937193348.xml" value="0.75" />
+        <entry key="../../../../../layout/compose-model-1670937641721.xml" value="0.22" />
+        <entry key="../../../../../layout/compose-model-1670938402764.xml" value="0.25" />
+        <entry key="../../../../../layout/compose-model-1670939039770.xml" value="0.18" />
+        <entry key="../../../../../layout/compose-model-1670939039773.xml" value="0.25" />
+        <entry key="../../../../../layout/compose-model-1670941985716.xml" value="0.18" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
